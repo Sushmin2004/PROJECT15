@@ -1,0 +1,25 @@
+body{
+    font-family: "Poppins", sans-serif;
+    background-image: url(th.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.form-wrapper {
+    background: rgb(201, 200, 200);
+    height: 40%;
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+}
